@@ -1,0 +1,32 @@
+HanaDesk Community Server
+Copyright (c) 2025 Hanasis Platform <platform@hanasis.com>
+
+This product is a community fork of RustDesk Server, originally developed by
+Purslane Ltd. (https://rustdesk.com).
+
+================================================================================
+Original Project
+================================================================================
+
+RustDesk Server
+Copyright (c) 2020-2024 Purslane Ltd.
+License: GNU Affero General Public License v3.0 (AGPL-3.0)
+Source: https://github.com/rustdesk/rustdesk-server
+
+================================================================================
+Third-Party Libraries
+================================================================================
+
+libs/hbb_common
+  Description: Common library (video codec, config, network, protobuf,
+               file transfer utilities)
+  Copyright (c) open-trade (OpenTrade Solutions)
+  License: AGPL-3.0 (as part of RustDesk)
+  Source: https://github.com/rustdesk/hbb_common
+
+================================================================================
+Additional Notices
+================================================================================
+
+All modifications made by Hanasis Platform to the original RustDesk Server
+source code are released under the same AGPL-3.0 license.
