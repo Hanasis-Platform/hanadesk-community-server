@@ -29,3 +29,11 @@ test.*
 *.pfx
 *.jks
 *.keystore
+
+# 빌드 자동화 스크립트 (로컬 환경 전용)
+build.bat
+build-*.bat
+
+# 서비스 배포 폴더 (포트별 인스턴스)
+P21116/
+P22116/
